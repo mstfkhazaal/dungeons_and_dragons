@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "591ab3885c920fa3",
+    "type": "split",
+    "children": [
+      {
+        "id": "7816da4468bd4847",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75e09a12a42361a3",
+            "type": "leaf",
+            "state": {
+              "type": "make-folder-view",
+              "state": {
+                "contextPath": "Part 1 - Creating a Character/Chapter 1 - Step-by-Step Characters"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d3f1b65b46c1365",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c9f1777f1cf6a78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c7c5e10c59a4e36",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e5a597d2cb1ff28b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3e654d8fabbdbb3e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "fc9ef0588dc9eb31",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 417.5
+  },
+  "right": {
+    "id": "079bd3fea600b84d",
+    "type": "split",
+    "children": [
+      {
+        "id": "99d8673fb77442b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3ee518e0c489086",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0266ebf652a0c680",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e8438c516369911e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1a1864244c627320",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "hidden-folder-obsidian:Hidden Folders": false
+    }
+  },
+  "active": "75e09a12a42361a3",
+  "lastOpenFiles": [
+    "Part 1 - Creating a Character/Chapter 1 - Step-by-Step Characters/Chapter 1 - Step-by-Step Characters.md",
+    "Part 2 - Playing the Game/Chapter 7 - Using Ability Scores/Saving Throws.md",
+    "Part 2 - Playing the Game/Chapter 7 - Using Ability Scores/Ability Checks.md",
+    "Part 2 - Playing the Game/Chapter 7 - Using Ability Scores/Using Each Ability.md",
+    "Part 2 - Playing the Game/Chapter 7 - Using Ability Scores/Proficiency Bonus.md",
+    "Part 2 - Playing the Game/Chapter 7 - Using Ability Scores/Advantage and Disadvantage.md",
+    "Part 2 - Playing the Game/Chapter 7 - Using Ability Scores/Ability Scores and Modifiers.md",
+    "Part 2 - Playing the Game/Chapter 7 - Using Ability Scores/Chapter 7 - Using Ability Scores.md",
+    "Part 2 - Playing the Game/Chapter 8 - Adventuring/Between Adventures.md",
+    "Part 2 - Playing the Game/Chapter 8 - Adventuring/Resting.md",
+    "Part 2 - Playing the Game/Chapter 8 - Adventuring/Social Interaction.md",
+    "Part 2 - Playing the Game/Chapter 8 - Adventuring/The Environment.md",
+    "Part 2 - Playing the Game/Chapter 8 - Adventuring/Movement.md",
+    "Part 2 - Playing the Game/Chapter 8 - Adventuring/Time.md",
+    "Part 2 - Playing the Game/Chapter 8 - Adventuring/Chapter 8 - Adventuring.md",
+    "Part 2 - Playing the Game/Chapter 9 - Combat/Underwater Combat.md",
+    "Part 2 - Playing the Game/Chapter 9 - Combat/Mounted Combat.md",
+    "Part 2 - Playing the Game/Chapter 9 - Combat/Damage and Healing.md",
+    "Part 2 - Playing the Game/Chapter 9 - Combat/Cover.md",
+    "Part 2 - Playing the Game/Chapter 9 - Combat/Making an Attack.md",
+    "Part 2 - Playing the Game/Chapter 9 - Combat/Actions in Combat.md",
+    "Part 2 - Playing the Game/Chapter 9 - Combat/Movement and Position.md",
+    "Part 2 - Playing the Game/Chapter 9 - Combat/The Order of Combat.md",
+    "Introduction/Part 3 - The Rules of Magic/Chapter 10 - Spellcasting/Casting a Spell.md",
+    "Introduction/Part 3 - The Rules of Magic/Chapter 10 - Spellcasting/What Is a Spell?.md",
+    "Introduction/Part 3 - The Rules of Magic/Chapter 10 - Spellcasting/Chapter 10 - Spellcasting.md",
+    "Introduction/Part 3 - The Rules of Magic/Chapter 11 - Spells",
+    "Introduction/Part 3 - The Rules of Magic/Chapter 10 - Spellcasting",
+    "Part 2 - Playing the Game/Chapter 9 - Combat",
+    "Part 2 - Playing the Game/Chapter 8 - Adventuring",
+    "Part 2 - Playing the Game/Chapter 7 - Using Ability Scores",
+    "Character Sheet",
+    "What Comes Next?",
+    "Index",
+    "Appendix E - Inspirational Reading",
+    "Appendix D - Creature Statistics"
+  ]
+}
