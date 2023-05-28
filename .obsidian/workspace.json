@@ -13,7 +13,7 @@
             "state": {
               "type": "make-folder-view",
               "state": {
-                "contextPath": "Part 1 - Creating a Character/Chapter 1 - Step-by-Step Characters"
+                "contextPath": "الجزء الأول"
               }
             }
           }
@@ -92,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "الجزء الأول/الجزء الأول.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "الجزء الأول/الجزء الأول.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "الجزء الأول/الجزء الأول.md"
+              }
             }
           }
         ]
@@ -152,6 +156,8 @@
   },
   "active": "75e09a12a42361a3",
   "lastOpenFiles": [
+    "المقدمة/تقديم.md",
+    "الجزء الأول/الجزء الأول.md",
     "Part 1 - Creating a Character/Chapter 1 - Step-by-Step Characters/Chapter 1 - Step-by-Step Characters.md",
     "Part 2 - Playing the Game/Chapter 7 - Using Ability Scores/Saving Throws.md",
     "Part 2 - Playing the Game/Chapter 7 - Using Ability Scores/Ability Checks.md",
@@ -176,8 +182,6 @@
     "Part 2 - Playing the Game/Chapter 9 - Combat/Movement and Position.md",
     "Part 2 - Playing the Game/Chapter 9 - Combat/The Order of Combat.md",
     "Introduction/Part 3 - The Rules of Magic/Chapter 10 - Spellcasting/Casting a Spell.md",
-    "Introduction/Part 3 - The Rules of Magic/Chapter 10 - Spellcasting/What Is a Spell?.md",
-    "Introduction/Part 3 - The Rules of Magic/Chapter 10 - Spellcasting/Chapter 10 - Spellcasting.md",
     "Introduction/Part 3 - The Rules of Magic/Chapter 11 - Spells",
     "Introduction/Part 3 - The Rules of Magic/Chapter 10 - Spellcasting",
     "Part 2 - Playing the Game/Chapter 9 - Combat",

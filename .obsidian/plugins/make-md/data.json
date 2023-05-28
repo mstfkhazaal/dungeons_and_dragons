@@ -49,7 +49,12 @@
       "Part 1 - Creating a Character/Chapter 1 - Step-by-Step Characters"
     ],
     "دليل اللاعب في لعبة الأدوار والتنين (D&D)": [
-      "تمهيد"
+      "تمهيد",
+      "تمهيد",
+      "الجزء الأول",
+      "المقدمة",
+      "المقدمة",
+      "الجزء الأول"
     ],
     "D&D": [
       "تمهيد"
@@ -90,7 +95,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1685275086393,
+  "spacesAutoBackupLast": 1685283209601,
   "spacesUseAlias": false,
   "precreateVaultSpace": true
 }
